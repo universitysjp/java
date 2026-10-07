@@ -2,17 +2,9 @@
   "title": "Java",
   "pages": [
     "index",
-    "introduction",
-    "data-types",
-    "control-statements",
-    "oop-intro",
-    "classes-objects",
-    "encapsulation",
-    "arrays",
-    "strings",
-    "inheritance",
-    "polymorphism",
-    "abstraction",
-    "exceptions-threads"
+    "getting-started",
+    "core-language",
+    "object-oriented-programming",
+    "exceptions-and-concurrency"
   ]
 }
